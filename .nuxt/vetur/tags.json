@@ -1,0 +1,44 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "ProjectsContact": {
+    "description": "Auto imported from components/Projects/Contact.vue"
+  },
+  "ProjectsImagesGallery": {
+    "description": "Auto imported from components/Projects/ImagesGallery.vue"
+  },
+  "SharedContactUsModal": {
+    "description": "Auto imported from components/Shared/ContactUsModal.vue"
+  },
+  "SharedCover": {
+    "description": "Auto imported from components/Shared/cover.vue"
+  },
+  "SharedFooter": {
+    "description": "Auto imported from components/Shared/Footer.vue"
+  },
+  "SharedHomeNav": {
+    "description": "Auto imported from components/Shared/HomeNav.vue"
+  },
+  "SharedMiniCover": {
+    "description": "Auto imported from components/Shared/MiniCover.vue"
+  },
+  "SharedSolidMiniCover": {
+    "description": "Auto imported from components/Shared/SolidMiniCover.vue"
+  },
+  "SharedNavLang": {
+    "description": "Auto imported from components/Shared/Nav/Lang.vue"
+  },
+  "SharedNavLinks": {
+    "description": "Auto imported from components/Shared/Nav/Links.vue"
+  },
+  "SharedNavNavbar": {
+    "description": "Auto imported from components/Shared/Nav/Navbar.vue"
+  },
+  "SharedNavSocial": {
+    "description": "Auto imported from components/Shared/Nav/Social.vue"
+  }
+}

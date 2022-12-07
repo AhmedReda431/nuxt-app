@@ -1,0 +1,62 @@
+.text-gray {
+  color: $gray;
+}
+.text-thin,
+.thin-text {
+  color: $thin;
+}
+.title {
+  text-transform: capitalize;
+  color: #000;
+  font-weight: bold;
+  font-size: 3rem;
+  margin-bottom: 4%;
+  @media (max-width: 992px) {
+    font-size: 2rem;
+}
+}
+.sub-title {
+  text-transform: capitalize;
+  color: #000;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 1%;
+}
+.more-btn {
+  padding: 15px 30px;
+  color: #fff;
+  background-color: #516c6a;
+  width: 40%;
+  margin: 4% 0;
+}
+section.large-padding,
+section.larg-padding {
+  padding: 7% 0;
+  margin: 2% 0 0 0;
+}
+
+.intro {
+  width: 75%;
+}
+
+.side-col-image {
+  height: 400px;
+  // object-fit: cover;
+  width: 100%;
+}
+
+.aligned-together{
+  justify-content: center;
+  align-items: center;
+}
+.bold{
+  font-weight:bold
+}
+
+.text-underline{
+  text-decoration: underline;
+}
+
+.blue-a{
+  color: #07A8CA;
+}

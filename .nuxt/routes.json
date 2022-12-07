@@ -1,0 +1,86 @@
+[
+  {
+    "name": "about___en",
+    "path": "/about",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_2d146a67"
+  },
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4ccc452c"
+  },
+  {
+    "name": "careers___en",
+    "path": "/careers",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\careers.vue",
+    "chunkName": "pages/careers",
+    "_name": "_081fb30f"
+  },
+  {
+    "name": "contactUs___en",
+    "path": "/contactUs",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\contactUs.vue",
+    "chunkName": "pages/contactUs",
+    "_name": "_1152a790"
+  },
+  {
+    "name": "projects___en",
+    "path": "/projects",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\projects.vue",
+    "chunkName": "pages/projects",
+    "_name": "_3768cc10"
+  },
+  {
+    "name": "about___ar",
+    "path": "/ar/about",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_2d146a67"
+  },
+  {
+    "name": "careers___ar",
+    "path": "/ar/careers",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\careers.vue",
+    "chunkName": "pages/careers",
+    "_name": "_081fb30f"
+  },
+  {
+    "name": "contactUs___ar",
+    "path": "/ar/contactUs",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\contactUs.vue",
+    "chunkName": "pages/contactUs",
+    "_name": "_1152a790"
+  },
+  {
+    "name": "projects___ar",
+    "path": "/ar/projects",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\projects.vue",
+    "chunkName": "pages/projects",
+    "_name": "_3768cc10"
+  },
+  {
+    "name": "news-id___ar",
+    "path": "/ar/news/:id?",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\news\\\\_id.vue",
+    "chunkName": "pages/news/_id",
+    "_name": "_3fb4a021"
+  },
+  {
+    "name": "news-id___en",
+    "path": "/news/:id?",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\news\\\\_id.vue",
+    "chunkName": "pages/news/_id",
+    "_name": "_3fb4a021"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "D:\\\\fabrica\\\\founders\\\\founders-website\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4ccc452c"
+  }
+]
